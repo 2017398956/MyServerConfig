@@ -1,0 +1,4 @@
+{
+	"canUse":true
+	"desc":"当为 false 时，主动触发异常，如果连接不到 github 则不触发。"
+}
